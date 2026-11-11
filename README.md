@@ -1,5 +1,6 @@
 #  Time-Series-Analysis-and-Forecasting-Ex-1-Plot-a-Time-Series-Data
-
+## NAME - JESHWANTH R
+## REG NO - 2305003003
 ## AIM:
 To develop a Python program to plot and visualize time series data such as population,
 commodity market price, or temperature.
